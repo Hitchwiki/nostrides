@@ -1,4 +1,4 @@
-# rideshares.org
+# [rideshares.org](https://rideshares.org)
 
 ideas around building [nostr](https://nostr.org/) tools for hitchhiking and ridesharing
 

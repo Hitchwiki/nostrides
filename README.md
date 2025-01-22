@@ -8,5 +8,7 @@ ideas around building [nostr](https://nostr.org/) tools for hitchhiking and ride
 * [github.com/Hitchwiki/nostrides](https://github.com/Hitchwiki/nostrides)
 
 
+As of Jan 2025 we also have [hitchhiking.org](https://hitchhiking.org/).
+
 
 [Edit this page](https://github.com/Hitchwiki/nostrides/edit/main/README.md)

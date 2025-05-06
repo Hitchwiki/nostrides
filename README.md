@@ -9,5 +9,3 @@ ideas around building [nostr](https://nostr.org/) tools for hitchhiking and ride
 * [thoughts around](https://github.com/kenflannery/rideshares-nostr/issues/3) using nostr to share hitchhiking information on hitchmap and hitchlog
 
 As of Jan 2025 we also have [hitchhiking.org](https://hitchhiking.org/).
-
-[Edit this page](https://github.com/Hitchwiki/nostrides/edit/main/README.md)

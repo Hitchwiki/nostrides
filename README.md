@@ -1,6 +1,6 @@
 # rideshares.org
 
-[rideshares.org](https://rideshares.org/) code is at https://github.com/kenflannery/rideshares-nostr
+[rideshares.org](https://rideshares.org/) code is at https://github.com/kenflannery/rideshares-nostr as of May 2025.
 
 
 ideas around building [nostr](https://nostr.org/) tools for hitchhiking and ridesharing

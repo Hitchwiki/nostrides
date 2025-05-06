@@ -1,14 +1,13 @@
-# [rideshares.org](https://rideshares.org)
+# rideshares.org
+
+[rideshares.org](https://rideshares.org/) code is at https://github.com/kenflannery/rideshares-nostr
+
 
 ideas around building [nostr](https://nostr.org/) tools for hitchhiking and ridesharing
 
-* this domain is available for nostr based free software enabling rideshares
 * [create a mediawiki extension](https://github.com/Hitchwiki/nostrides/issues/2) to log in to [hitchwiki](https://hitchwiki.org/) with nostr, using NIP-07
 * [thoughts around](https://github.com/Hitchwiki/nostrides/issues/1) using nostr to share hitchhiking information on hitchmap and hitchlog
-* [github.com/Hitchwiki/nostrides](https://github.com/Hitchwiki/nostrides)
-
 
 As of Jan 2025 we also have [hitchhiking.org](https://hitchhiking.org/).
-
 
 [Edit this page](https://github.com/Hitchwiki/nostrides/edit/main/README.md)
